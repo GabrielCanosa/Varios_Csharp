@@ -10,7 +10,7 @@
 [link a la documentacion de Microsoft](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)
 
 #### La carpera `InterfacesAndAbstractClass` contiene un ejericio práctico sobre las diferencias y similitudes que existen entre clases abstractas e interfaces
-[link a la documentacion de Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/)
+[link a la documentacion de Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/)  
 [link a la documentacion de Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract)
 
 #### La carpera `InyeccionDeDependencias` contiene un ejemplo sencillo sobre como hacer una inyeccion de dependencia
